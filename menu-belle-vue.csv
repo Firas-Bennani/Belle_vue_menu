@@ -1,0 +1,172 @@
+﻿id,categorie,plat,description,prix,etiquette,photo,disponible
+froides-0,Entrées froides,Carpaccio de Gambas,Fines tranches de gambas marinées aux agrumes.,"34,00",,froides-0.jpg,oui
+froides-1,Entrées froides,Vitello Tonnato,"Fines tranches de veau, sauce au thon et câpres.","34,00",,froides-1.jpg,oui
+froides-2,Entrées froides,César Signature,"Laitue romaine, poulet, croûtons, parmesan et sauce César.","29,00",Signature,froides-2.jpg,oui
+froides-3,Entrées froides,Salade Frutti di Mare,Mélange de fruits de mer et de légumes frais.,"29,00",,froides-3.jpg,oui
+froides-4,Entrées froides,Burrata à la karkenaise,Burrata crémeuse inspirée des saveurs méditerranéennes de Kerkennah.,"34,00",,froides-4.jpg,oui
+chaudes-0,Entrées chaudes,Golden Crispy Chicken,"Filets de poulet croustillants, accompagnés de notre sauce maison.","21,00",,chaudes-0.jpg,oui
+chaudes-1,Entrées chaudes,Drums Signature,Pilons de poulet marinés et frits à la perfection.,"21,00",,chaudes-1.jpg,oui
+chaudes-2,Entrées chaudes,Satay Prestige,"Brochettes de poulet marinées, servies avec une sauce satay.","21,00",,chaudes-2.jpg,oui
+chaudes-3,Entrées chaudes,Marmite Océane,Sélection de fruits de mer mijotés dans une sauce crémeuse.,"25,00",,chaudes-3.jpg,oui
+chaudes-4,Entrées chaudes,Trésor du Pêcheur,Assortiment de fruits de mer soigneusement sélectionnés.,"29,00",,chaudes-4.jpg,oui
+chaudes-5,Entrées chaudes,Fish & Chips Bellevue,"Filet de poisson croustillant, frites fraîches et sauce tartare.","35,00",Signature,chaudes-5.jpg,oui
+chaudes-6,Entrées chaudes,Gambas Grillées 6P,"Gambas grillées, beurre citronné et herbes fraîches.","45,00",,chaudes-6.jpg,oui
+chaudes-7,Entrées chaudes,Crème de légumes parfumée à la truffe,,"24,00",,chaudes-7.jpg,oui
+plats-0,Plats principaux,Suprême de Volaille à la Crème de Gorgonzola,Suprême de poulet nappé d'une sauce crémeuse au gorgonzola.,"39,00",,plats-0.jpg,oui
+plats-1,Plats principaux,Daurade Grillée ou Loup de Mer,"Poisson entier grillé, huile d'olive et citron.","45,00",,plats-1.jpg,oui
+plats-2,Plats principaux,Espadon à la Sicilienne,"Espadon grillé, sauce tomate, olives et câpres.","45,00",,plats-2.jpg,oui
+plats-3,Plats principaux,Le Titan Stroganoff,"Émincé de bœuf, sauce Stroganoff crémeuse.","49,00",,plats-3.jpg,oui
+plats-4,Plats principaux,Pavé de Saumon,"Saumon grillé, accompagné de légumes de saison.","63,00",,plats-4.jpg,oui
+plats-5,Plats principaux,Cœur de Filet de Bœuf,"Filet de bœuf tendre, cuisson selon votre préférence.","65,00",,plats-5.jpg,oui
+plats-6,Plats principaux,Côte à l'Os XL,"Pièce de bœuf maturée, grillée.","99,00",XL,plats-6.jpg,oui
+plats-7,Plats principaux,Souris d'Agneau Confite,"Cuite lentement à basse température, jus réduit aux herbes.","99,00",,plats-7.jpg,oui
+plats-8,Plats principaux,Côtelettes d'Agneau Grillées,Côtelettes marinées et grillées.,"99,00",,plats-8.jpg,oui
+plats-9,Plats principaux,Tomahawk du Chef,Pièce d'exception grillée.,"149,00",À partager,plats-9.jpg,oui
+pates-0,Pâtes & risottos,Bucatini alla Carbonara,,"32,00",,pates-0.jpg,oui
+pates-1,Pâtes & risottos,Bologna Classica,,"37,00",,pates-1.jpg,oui
+pates-2,Pâtes & risottos,Penne Forestière au Poulet,,"37,00",,pates-2.jpg,oui
+pates-3,Pâtes & risottos,Penne Quatre Fromages,,"38,00",,pates-3.jpg,oui
+pates-4,Pâtes & risottos,Tagliatelle Alfredo,,"38,00",,pates-4.jpg,oui
+pates-5,Pâtes & risottos,Rigatoni Crémeux à la Stracciatella,,"42,00",,pates-5.jpg,oui
+pates-6,Pâtes & risottos,Mare Nostrum,,"45,00",,pates-6.jpg,oui
+pates-7,Pâtes & risottos,Linguine alle Vongole & Langoustines,,"45,00",,pates-7.jpg,oui
+pates-8,Pâtes & risottos,Risotto Parmigiano à la Truffe,,"45,00",,pates-8.jpg,oui
+pates-9,Pâtes & risottos,Tagliatelle Rosato,,"45,00",,pates-9.jpg,oui
+pates-10,Pâtes & risottos,Risotto aux Langoustines & Crème de Pesto,,"45,00",,pates-10.jpg,oui
+pates-11,Pâtes & risottos,Rigatoni Pollo al Tartufo,,"45,00",,pates-11.jpg,oui
+pates-12,Pâtes & risottos,Pâtes à la Tunisienne,"Selon l'arrivage du jour, préparées avec du poisson frais et une sauce méditerranéenne.","45,00",,pates-12.jpg,oui
+pates-13,Pâtes & risottos,Risotto aux Crustacés,Risotto crémeux aux crustacés sélectionnés selon l'arrivage.,"49,00",,pates-13.jpg,oui
+pizzas-0,Pizzas,Margherita Napoli,,"20,00",,pizzas-0.jpg,oui
+pizzas-1,Pizzas,Verde Primavera,,"22,00",,pizzas-1.jpg,oui
+pizzas-2,Pizzas,Regina Classica,"Jambon, champignons.","22,00",,pizzas-2.jpg,oui
+pizzas-3,Pizzas,Bellevue,"Peppéroni, jambon, gorgonzola.","26,00",Signature,pizzas-3.jpg,oui
+pizzas-4,Pizzas,Lovina Prestige,"Viande hachée, peppéroni.","26,00",,pizzas-4.jpg,oui
+pizzas-5,Pizzas,Tonnato,,"26,00",,pizzas-5.jpg,oui
+pizzas-6,Pizzas,Pollo Milano,,"26,00",,pizzas-6.jpg,oui
+pizzas-7,Pizzas,Bella Burrata,,"28,00",,pizzas-7.jpg,oui
+pizzas-8,Pizzas,Tartufo & Parmesan,,"28,00",,pizzas-8.jpg,oui
+pizzas-9,Pizzas,Cinque Formaggi,,"28,00",,pizzas-9.jpg,oui
+pizzas-10,Pizzas,Salmone Affumicato,,"35,00",,pizzas-10.jpg,oui
+pizzas-11,Pizzas,Mare Blu,,"42,00",,pizzas-11.jpg,oui
+burgers-0,Panuzzo & burgers,Panuzzo Poulet Pané,,"20,00",,burgers-0.jpg,oui
+burgers-1,Panuzzo & burgers,Panuzzo Poulet Mariné aux Champignons,,"24,00",,burgers-1.jpg,oui
+burgers-2,Panuzzo & burgers,Panuzzo Mexicano,,"24,00",,burgers-2.jpg,oui
+burgers-3,Panuzzo & burgers,Luxury Chicken Burger,,"26,00",,burgers-3.jpg,oui
+burgers-4,Panuzzo & burgers,Luxury Beef Burger,,"30,00",,burgers-4.jpg,oui
+crepes-salees-0,Crêpes salées,Crêpe Océane,"Thon, fromage fondant et herbes aromatiques.","16,00",,crepes-salees-0.jpg,oui
+crepes-salees-1,Crêpes salées,Crêpe Parisienne,Jambon de dinde et fromage gratiné.,"16,00",,crepes-salees-1.jpg,oui
+crepes-salees-2,Crêpes salées,Crêpe Bellevue Signature,"Poulet pané, jambon de dinde, mozzarella et sauce fromage.","20,00",Signature,crepes-salees-2.jpg,oui
+crepes-sucrees-0,Crêpes sucrées,Nutella Lovers,Crêpe généreusement garnie de Nutella.,"18,00",,crepes-sucrees-0.jpg,oui
+crepes-sucrees-1,Crêpes sucrées,Pistachio Dream,Crème de pistache et éclats de noisettes torréfiées.,"24,00",,crepes-sucrees-1.jpg,oui
+crepes-sucrees-2,Crêpes sucrées,Royal Ferrero Delight,"Nutella, Ferrero Rocher, noisettes croquantes et boule de glace vanille.","29,00",,crepes-sucrees-2.jpg,oui
+desserts-0,Desserts,Fondant,,"20,00",,desserts-0.jpg,oui
+desserts-1,Desserts,Tiramisu Maison,,"20,00",,desserts-1.jpg,oui
+chaud-0,Boissons chaudes,Expresso,,"6,00",,chaud-0.jpg,oui
+chaud-1,Boissons chaudes,Café américain,,"6,00",,chaud-1.jpg,oui
+chaud-2,Boissons chaudes,Café turc,,"6,00",,chaud-2.jpg,oui
+chaud-3,Boissons chaudes,Café crème,,"7,00",,chaud-3.jpg,oui
+chaud-4,Boissons chaudes,Macchiato,,"7,00",,chaud-4.jpg,oui
+chaud-5,Boissons chaudes,Cappuccino,,"7,00",,chaud-5.jpg,oui
+chaud-6,Boissons chaudes,Capucin,,"7,00",,chaud-6.jpg,oui
+chaud-7,Boissons chaudes,Chocolat au lait,,"7,00",,chaud-7.jpg,oui
+chaud-8,Boissons chaudes,Café caramel,,"7,00",,chaud-8.jpg,oui
+chaud-9,Boissons chaudes,Café noisette,,"7,00",,chaud-9.jpg,oui
+chaud-10,Boissons chaudes,Expresso Lavazza,,"7,50",,chaud-10.jpg,oui
+chaud-11,Boissons chaudes,Nescafé,,"8,00",,chaud-11.jpg,oui
+chaud-12,Boissons chaudes,Café spécial,,"8,00",,chaud-12.jpg,oui
+chaud-13,Boissons chaudes,Café spécial aromatisé,Parfum au choix.,"10,00",,chaud-13.jpg,oui
+thes-0,Thés,Thé infusion,,"8,00",,thes-0.jpg,oui
+thes-1,Thés,Thé aux amandes,,"8,50",,thes-1.jpg,oui
+thes-2,Thés,Thé aux pignons,,"9,50",,thes-2.jpg,oui
+thes-3,Thés,Thé infusion aux fruits secs,,"12,00",,thes-3.jpg,oui
+thes-4,Thés,Thé Belle Vue,,"14,00",Signature,thes-4.jpg,oui
+ice-coffee-0,Ice coffee,Ice Americano,,"8,00",,ice-coffee-0.jpg,oui
+ice-coffee-1,Ice coffee,Ice Latte,,"8,00",,ice-coffee-1.jpg,oui
+ice-coffee-2,Ice coffee,Vanilla Latte,"Café, vanille, lait.","9,00",,ice-coffee-2.jpg,oui
+ice-coffee-3,Ice coffee,Caramel Latte,"Café, lait, caramel.","9,00",,ice-coffee-3.jpg,oui
+ice-coffee-4,Ice coffee,Strawberry Latte,"Café, fraise, lait.","9,00",,ice-coffee-4.jpg,oui
+ice-coffee-5,Ice coffee,Coconut Latte,"Café, lait de coco, lait, Nestlé.","9,00",,ice-coffee-5.jpg,oui
+ice-coffee-6,Ice coffee,Pistachio Latte,"Café, Nestlé, sauce pistache.","12,00",,ice-coffee-6.jpg,oui
+ice-coffee-7,Ice coffee,Nutella Latte,"Café, Nutella, lait, Nestlé.","12,00",,ice-coffee-7.jpg,oui
+matcha-0,Matcha,Matcha Latte,"Matcha, miel, glaçons, lait.","15,00",,matcha-0.jpg,oui
+matcha-1,Matcha,Matcha Vanilla Latte,"Matcha, vanille, glaçons, lait.","18,00",,matcha-1.jpg,oui
+matcha-2,Matcha,Matcha Caramel Latte,"Matcha, caramel, glaçons, lait.","18,00",,matcha-2.jpg,oui
+matcha-3,Matcha,Matcha Strawberry Latte,"Matcha, fraise, glaçons, lait.","18,00",,matcha-3.jpg,oui
+matcha-4,Matcha,Matcha Nutella Latte,"Matcha, Nutella, glaçons, lait.","18,00",,matcha-4.jpg,oui
+matcha-5,Matcha,Matcha Oreo,"Matcha, Oreo, glaçons, lait.","18,00",,matcha-5.jpg,oui
+affogato-0,Affogato,Affogato Nutella,,"15,00",,affogato-0.jpg,oui
+affogato-1,Affogato,Affogato chocolat,,"15,00",,affogato-1.jpg,oui
+affogato-2,Affogato,Affogato pistache,,"18,00",,affogato-2.jpg,oui
+choco-chaud-0,Chocolats chauds,Chocolat chaud,,"10,00",,choco-chaud-0.jpg,oui
+choco-chaud-1,Chocolats chauds,Chocolat chaud Chantilly,,"12,00",,choco-chaud-1.jpg,oui
+choco-chaud-2,Chocolats chauds,Chocolat chaud Spéculoos,,"15,00",,choco-chaud-2.jpg,oui
+choco-chaud-3,Chocolats chauds,Chocolat chaud Oreo,,"15,00",,choco-chaud-3.jpg,oui
+choco-chaud-4,Chocolats chauds,Chocolat chaud Chantilly & fruits secs,,"15,00",,choco-chaud-4.jpg,oui
+choco-chaud-5,Chocolats chauds,Chocolat chaud Chantilly & fruits de saison,,"15,00",,choco-chaud-5.jpg,oui
+choco-froid-0,Chocolats froids,Chocolat glacé,,"10,00",,choco-froid-0.jpg,oui
+choco-froid-1,Chocolats froids,Chocolat viennois,,"15,00",,choco-froid-1.jpg,oui
+choco-froid-2,Chocolats froids,Chocolat liégeois,,"15,00",,choco-froid-2.jpg,oui
+jus-0,Jus frais,Citronnade,,"6,50",,jus-0.jpg,oui
+jus-1,Jus frais,Jus d'orange,,"6,50",,jus-1.jpg,oui
+jus-2,Jus frais,Jus de banane,,"9,00",,jus-2.jpg,oui
+jus-3,Jus frais,Citronnade aux amandes,,"9,50",,jus-3.jpg,oui
+jus-4,Jus frais,Jus de fraise,,"9,50",,jus-4.jpg,oui
+jus-5,Jus frais,Jus de pêche,,"11,00",,jus-5.jpg,oui
+jus-6,Jus frais,Jus de kiwi,,"11,00",,jus-6.jpg,oui
+jus-7,Jus frais,Jus d'ananas,,"11,00",,jus-7.jpg,oui
+jus-8,Jus frais,Jus de figue,,"11,00",,jus-8.jpg,oui
+mojitos-0,Mojitos,Mojito,,"12,00",,mojitos-0.jpg,oui
+mojitos-1,Mojitos,Mojito Blue,,"13,00",,mojitos-1.jpg,oui
+mojitos-2,Mojitos,Mojito Lady in Red,,"13,00",,mojitos-2.jpg,oui
+mojitos-3,Mojitos,Mojito Piña Colada,,"13,00",,mojitos-3.jpg,oui
+mojitos-4,Mojitos,Mojito Blue Hawaii,,"14,00",,mojitos-4.jpg,oui
+mojitos-5,Mojitos,Mojito Strawberry,,"14,00",,mojitos-5.jpg,oui
+mojitos-6,Mojitos,Mojito Kiwi,,"14,00",,mojitos-6.jpg,oui
+mojitos-7,Mojitos,Mojito Kiwi Mangue,,"14,00",,mojitos-7.jpg,oui
+mojitos-8,Mojitos,Mojito Mangue,,"14,00",,mojitos-8.jpg,oui
+mojitos-9,Mojitos,Mojito Cerise,,"14,00",,mojitos-9.jpg,oui
+mojitos-10,Mojitos,Mojito Belle Vue,"Boisson énergétique, parfum au choix.","20,00",Signature,mojitos-10.jpg,oui
+smoothies-0,Smoothies,Kiwi Banane,,"15,00",,smoothies-0.jpg,oui
+smoothies-1,Smoothies,Strawberry Banane,,"15,00",,smoothies-1.jpg,oui
+smoothies-2,Smoothies,Pêche Banane,,"15,00",,smoothies-2.jpg,oui
+smoothies-3,Smoothies,Banane Dattes,,"15,00",,smoothies-3.jpg,oui
+smoothies-4,Smoothies,Belle Vue,"Fraise, banane, myrtille, amande, yaourt, miel.","20,00",Signature,smoothies-4.jpg,oui
+cocktails-0,Cocktails & mocktails,Lait de poule,,"12,00",,cocktails-0.jpg,oui
+cocktails-1,Cocktails & mocktails,Corse,"Mangue, banane, ananas, une cuillère de café, cannelle en poudre.","12,00",,cocktails-1.jpg,oui
+cocktails-2,Cocktails & mocktails,Hawaï,"Ananas, mangue, fruit de la passion, orange, fruits rouges.","14,00",,cocktails-2.jpg,oui
+cocktails-3,Cocktails & mocktails,Bali,"Noix de coco râpée, crème de coco, mangue, citron, menthe fraîche.","14,00",,cocktails-3.jpg,oui
+cocktails-4,Cocktails & mocktails,Santorin,"Glace citron, citronnade, menthe fraîche, sirop de menthe.","14,00",,cocktails-4.jpg,oui
+cocktails-5,Cocktails & mocktails,Bora Bora Piña Colada,"Ananas, lait de coco, crème de coco.","15,00",,cocktails-5.jpg,oui
+cocktails-6,Cocktails & mocktails,Les Seychelles,"Mangue, pêche, ananas, menthe fraîche.","16,00",,cocktails-6.jpg,oui
+cocktails-7,Cocktails & mocktails,Tahiti,"Banane, pêche, miel, orange.","16,00",,cocktails-7.jpg,oui
+cocktails-8,Cocktails & mocktails,Maldives,"Kiwi, ananas, mangue.","16,00",,cocktails-8.jpg,oui
+cocktails-9,Cocktails & mocktails,Capri,"Glace pistache, banane, dattes, noisettes.","20,00",,cocktails-9.jpg,oui
+cocktails-10,Cocktails & mocktails,Sardaigne,"Banane, dattes, chia, avoine, figue, surprise.","20,00",,cocktails-10.jpg,oui
+cocktails-11,Cocktails & mocktails,Belle Vue,"Fraise, ananas, dattes, banane, kiwi, fruits secs.","24,00",Signature,cocktails-11.jpg,oui
+milkshakes-0,Milkshakes,Milkshake Cheesecake,,"16,00",,milkshakes-0.jpg,oui
+milkshakes-1,Milkshakes,Milkshake Spéculoos,,"16,00",,milkshakes-1.jpg,oui
+milkshakes-2,Milkshakes,Milkshake Oreo,,"16,00",,milkshakes-2.jpg,oui
+milkshakes-3,Milkshakes,Milkshake Cookies,,"16,00",,milkshakes-3.jpg,oui
+milkshakes-4,Milkshakes,Milkshake Blue,,"16,00",,milkshakes-4.jpg,oui
+milkshakes-5,Milkshakes,Milkshake Fruits des bois,,"16,00",,milkshakes-5.jpg,oui
+milkshakes-6,Milkshakes,Milkshake Nutella,,"16,00",,milkshakes-6.jpg,oui
+milkshakes-7,Milkshakes,Milkshake Nutella Banane,,"16,00",,milkshakes-7.jpg,oui
+milkshakes-8,Milkshakes,Milkshake Ferrero,,"16,00",,milkshakes-8.jpg,oui
+milkshakes-9,Milkshakes,Milkshake Snickers,,"19,00",,milkshakes-9.jpg,oui
+milkshakes-10,Milkshakes,Milkshake Kinder,,"19,00",,milkshakes-10.jpg,oui
+boissons-0,Boissons,"Eau minérale 0,5 L",,"2,50",,boissons-0.jpg,oui
+boissons-1,Boissons,Eau minérale 1 L,,"5,00",,boissons-1.jpg,oui
+boissons-2,Boissons,Eau gazeuse,,"5,00",,boissons-2.jpg,oui
+boissons-3,Boissons,Soda,,"6,00",,boissons-3.jpg,oui
+boissons-4,Boissons,Boga menthe / grenadine,,"7,50",,boissons-4.jpg,oui
+boissons-5,Boissons,Boisson énergétique,,"12,00",,boissons-5.jpg,oui
+jwejem-0,Jwejem,Jwejem Classic,Pour 1 personne.,"17,00",,jwejem-0.jpg,oui
+jwejem-1,Jwejem,Jwejem Belle Vue,Pour 2 personnes.,"30,00",2 pers.,jwejem-1.jpg,oui
+chichas-0,Nos chichas,Chicha Pomme,,"25,00",,chichas-0.jpg,oui
+chichas-1,Nos chichas,Chicha Menthe,,"25,00",,chichas-1.jpg,oui
+chichas-2,Nos chichas,Chicha Love,,"25,00",,chichas-2.jpg,oui
+chichas-3,Nos chichas,Chicha Chikhmoney,,"25,00",,chichas-3.jpg,oui
+chichas-4,Nos chichas,Chicha Raisin,,"25,00",,chichas-4.jpg,oui
+chichas-5,Nos chichas,Chicha Raisin Menthe,,"25,00",,chichas-5.jpg,oui
+chichas-6,Nos chichas,Chicha Prestige,Parfum au choix + mini-assiette de fruits.,"35,00",,chichas-6.jpg,oui
+chichas-7,Nos chichas,Chicha Belle Vue,Parfum au choix + assiette de fruits + thé au choix.,"48,00",Signature,chichas-7.jpg,oui
